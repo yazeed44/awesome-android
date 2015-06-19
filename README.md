@@ -1941,6 +1941,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/thyrlian/AwesomeValidation](https://github.com/thyrlian/AwesomeValidation)
 1. **WeakHandler** helps to have a clean handler without memmory issues.
 [https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
+**Multi Image picker** built-in gallery to pick multiple images or capture new photos , and retrieve the path in the code.
+[https://github.com/yazeed44/MultiImagePicker](https://github.com/yazeed44/MultiImagePicker)
 
 
 
